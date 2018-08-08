@@ -4,9 +4,9 @@ A simple android app to hit the NY Times Most Popular Articles API and show a li
 ## Developed
 1. Model–view–viewmodel (MVVM) architectural pattern
 2. Offline supported
-3. Retrofit serveer call 
-4. Testedd using JUnit & espress
-5. NDK/C++ secure api key and url
+3. Retrofit server call 
+4. UI & functions tested using JUnit & espress
+5. NDK/C++ secure api key and urls
 
 ## Screens
 
