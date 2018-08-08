@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="news_image">news_image</string>
+    <string name="no_data">No Data</string>
+</resources>
